@@ -9,6 +9,7 @@ public class HelloController {
 
     @Value("${com.zzq.name}")
     private  String name;
+
     @Value("${com.zzq.title}")
     private  String title;
 
